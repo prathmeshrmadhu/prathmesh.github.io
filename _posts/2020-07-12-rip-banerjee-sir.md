@@ -5,10 +5,6 @@ permalink: /posts/2012/08/rip-banerjee-sir/
 tags:
   - personal
 ---
-
-Rest in Peace, Banerjee Sir.
-======
-
 TL; DR
 
 This is going to be very <i>very</i> long. 
