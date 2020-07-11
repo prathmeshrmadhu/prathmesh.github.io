@@ -34,7 +34,7 @@ Weeks passed, and soon we were presenting the so-called phase 1 report and you w
 > 
 > <b>Me</b> : Sir, I tried, but it did not work out. Ab to job bhi start ho jayega (Even job will start soon now). I have interviews for InFoCusp soon, will have to prepare for that.
 > 
-> <b>AB</b> : The ML company that comes to the campus? Deloitte nai jayega?
+> <b>AB</b> : The ML company that comes to the campus? Deloitte nai jayega (Won't go to Deloitte)?
 > 
 > <b>Me</b> : Don't know that sir, if this works out then nai (NO). Personally this one is a better opportunity both financially and professionally.
 >  
