@@ -30,7 +30,7 @@ Weeks passed, and soon we were presenting the so-called phase 1 report and you w
 >
 > <b>Me</b> : Reject ho gaya sir (It got rejected, Sir). They said they did not find enough novelty.
 >
-> <b>AB</b> : To ab kya karega? Degree kaise milega tujhe?
+> <b>AB</b> : (with a broad smile on his face) To ab kya karega? Degree kaise milega tujhe? (Now what will you do? How will you get the degree?)
 > 
 > <b>Me</b> : Sir, I tried, but it did not work out. Ab to job bhi start ho jayega (Even job will start soon now). I have interviews for InFoCusp soon, will have to prepare for that.
 > 
