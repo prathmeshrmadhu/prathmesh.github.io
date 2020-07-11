@@ -30,21 +30,20 @@ Post that, we never had many courses, but than began the journey of my Masters' 
 
 Weeks passed, and soon we were presenting the so-called phase 1 report and you were introduced to your committee (panel of faculty members who evaluate your work) for the 3 phases over the period of next 6 months.  Ofcourse, Banerjee Sir was on my committee and not only that, he identified as a co-supervisor, which I was not aware of. Again, Day 1 strikes with a smile on my face. I present and things move ahead to Phase 2. Phase 2 was challenging, this time he was all pumped up. He asked some very challenging questions. The answers to which I did not know, I basically shitted during the presentation. He knew and he had this smile of his face like Krishna had throughout Mahabharata knowing what is going on exactly.  To be honest, I was very furious on him (foolish student mistake, which is quite common across student community) and in my stupid innocence I walked into his trap. Few days later, I went to his office and asked him what went wrong there? He smiled and simply said one thing, "You know what, you don't ask the question 'Why' enough to yourself. Start doing that and it all will fall into place. Samjha (Got it)?" Obviously I did not, so I said sir could you please elaborate? He asked, "Tell me how does Google super-resolve images on Google Maps?" I was dumbfounded by that question. I did not know the Google Maps algorithm and had never thought about it connected to my work and somehow he knew I did not know the answer. He waited for 2 mins till I tried. After one or two stupid answers, he said - "You know what, Google does not use Super resolution at all. It captures images at various resolutions from satellites. But, you did not ask this question to yourself. You should have and that's the problem. You guys are so much involved into how, you just miss the jackpot of why? Focus on why and the how will come automatically." I was literally smiling even though I failed miserably in his test as I realized it was a major learning curve for me. Next 2 phases went well and I did an average job in his view and the final talk was quite alright, so that I was allowed to have my degree. Outside of the room, once Prof. Joshi went to his cabin, he just walked with me a little towards the cafeteria for his beloved chai and the conversation went something like this (I loosely remember it like this) 
 
-<p>
-<b>(Asim Banerjee) AB</b> : Paper ka kya hua? (What happened about the paper?)
+> <b>(Asim Banerjee) AB</b> : Paper ka kya hua? (What happened about the paper?)
+>
+> <b>Me</b> : Reject ho gaya sir (It got rejected, Sir). They said they did not find enough novelty.
+>
+> <b>AB</b> : To ab kya karega? Degree kaise milega tujhe?
+> 
+> <b>Me</b> : Sir, I tried, but it did not work out. Ab to job bhi start ho jayega (Even job will start soon now). I have interviews for InFoCusp soon, will have to prepare for that.
+> 
+> <b>AB</b> : The ML company that comes to the campus? Deloitte nai jayega?
+> 
+> <b>Me</b> : Don't know that sir, if this works out then nai (NO). Personally this one is a better opportunity both financially and professionally.
+>  
+> <b>AB</b> : Acha, ek baat bata (Ok, tell me one thing) How was your experience throughout the M.Tech Programme and how do you think we can improve this? I want to know from a student and a teacher perspective. 
 
-<b>Me</b> : Reject ho gaya sir (It got rejected, Sir). They said they did not find enough novelty.
- 
-<b>AB</b> : To ab kya karega? Degree kaise milega tujhe? 
-
-<b>Me</b> : Sir, I tried, but it did not work out. Ab to job bhi start ho jayega (Even job will start soon now). I have interviews for InFoCusp soon, will have to prepare for that. 
-
-<b>AB</b> : The ML company that comes to the campus? Deloitte nai jayega? 
-
-<b>Me</b> : Don't know that sir, if this works out then nai (NO). Personally this one is a better opportunity both financially and professionally.  
-
-<b>AB</b> : Acha, ek baat bata (Ok, tell me one thing) How was your experience throughout the M.Tech Programme and how do you think we can improve this? I want to know from a student and a teacher perspective. 
-</p>
  
 
 Obviously, we talked for more than an hour about my points, he crossed them very politely and accepted a few very honestly saying that he will make sure DA works on them. The whole point of sharing this dialogue was that this was my last conversation with him as a DA student and we have had couple of conversations on similar topics over that last year. We did a workshop for ISRO scientists where he forced me to learn a little C++. He literally told me that you are doing it and if you don't know then learn things and I did. It was like an instant impact, he would tell and I will do it but it never felt like a force coming from him. He also pushed me to take the workshop that he was offering on "Math with MS Excel" where he along with his friend/colleague taught math via excel formulas and the understanding.  We had a lot of chai (Tea) + samosas then during those workshops. He also supported our placement committee head Sunil Jain Sir with everything he could do. He was also a major helping hand in supporting IIIT-V (Indian Institute of Information Technology, Vadodara) whose campus was tentatively in Gandhinagar. He made instant jokes, some he knew were not funny but he still did it and laughed it off. He was always direct about what he wanted to convey, never beating around the bush. He actively participated in various cultural events and once I saw him doing ramp walk too, that was the highlight of my interactions with him. Before I left, we did go for a dinner, him, Ananya (his daughter), Rupsa, Ainish, Ritu (fellow colleagues) and I for dinner and I am lucky enough to have at least one picture with him and I will cherish till memory of him for my life.
