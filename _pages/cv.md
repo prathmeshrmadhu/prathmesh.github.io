@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * Ph.D in Scene understanding in Digital Humanities, Friedrich Alexander University, 2018 -- Ongoing
-* M.Tech in Information and Communication Technology (ICT), GitHub University, 2016
-* B.E. in Electronics and Communication Engineering (EC), LD Engineering College, 2014
+* M.Tech in Information and Communication Technology (ICT), DAIICT University, 2016
+* B.E. in Electronics and Communication Engineering (EC), LD College of Engineering, 2014
 
 Work experience
 ======
