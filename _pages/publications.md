@@ -10,6 +10,8 @@ For the full list of academic publications, check out my [official-webpage](http
 Conferences and Workshops
 ------
 
+1. Madhu and Marquart et al. "Understanding Compositional Structures in Art Historical Images using Pose and Gaze Priors." Proceedings of the European Conference on Computer Vision (ECCV). 2020.
+
 1. Madhu P., Kosti RV., Bendschus T., Reinhardt C., Maier A.:
 Computer Vision Understanding of Narrative Strategies on Greek Vases
 48th Computer Applications and Quantitative Methods in Archaeology Conference (Oxford, UK, April 14, 2020 - April 17, 2020)
