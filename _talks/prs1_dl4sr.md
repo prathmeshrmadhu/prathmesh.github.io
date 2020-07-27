@@ -4,11 +4,11 @@ collection: talks
 type: "Talk"
 permalink: /talks/prs1_dl4sr
 venue: "FAU Erlangen Nuernberg, Department of Pattern Recognition"
-date: 2012-03-01
+date: 2020-02-19
 location: "Erlangen, Germany"
 ---
 
-This talk was presented at the Pattern Recognition Symposium in March, 2019 at FAU, Erlangen-Nuernberg. This talk had two parts:
+This talk was presented at the Pattern Recognition Symposium in February, 2019 at FAU, Erlangen-Nuernberg. This talk had two parts:
 a) Brief description about my Masters' thesis
 b) Plans and Introduction to my PhD topic and data.
 
