@@ -1,7 +1,7 @@
 ---
 title: 'Why fastai?'
 date: 2020-09-30
-permalink: /posts/2020/09/30/rip-banerjee-sir/
+permalink: /posts/2020/09/30/why-fastai?/
 tags:
   - work
 ---
